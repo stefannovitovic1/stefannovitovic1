@@ -10,7 +10,7 @@
   </a>
 </div>
 
-			- 👋 Hi, I’m @stefannovitovic1
+			- 👋 Hi, I’m Stefan
 			- 👀 I’m interested in knowning more about low-level programming stuff.
 			- 🌱 I’m currently learning Rust and Go
 <!---
